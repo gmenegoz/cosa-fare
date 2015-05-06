@@ -1,4 +1,5 @@
-# Cosa fare?
+Cosa fare?
+==========
 
 ### Andrea Cimatoribus, Giuseppe Menegoz
 
